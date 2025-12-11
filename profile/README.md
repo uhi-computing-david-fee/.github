@@ -15,8 +15,9 @@ This organisation hosts course repositories for UHI Computing students
 - (add repos as needed)
 
 ## BSc Computing
-- **Password Rater** - Software Construction (UG409765) [View Repo](https://github.com/uhi-computing-david-fee/bsc-sc-password-strength)
 - **Reverse Polish Notation (RPN) Calculator** - Software Construction (UG409765) [View Repo](https://github.com/uhi-computing-david-fee/bsc-sc-rpn)
+- **Password Rater** - Software Construction (UG409765) [View Repo](https://github.com/uhi-computing-david-fee/bsc-sc-password-strength)
+- **PriorityQueue Class Library (Assessment 1)** - Software Construction (UG409765) [View Repo](https://github.com/uhi-computing-david-fee/bsc-sc-priority-queue)
 
 ## BSc (Hons) Computing
 - *(add repos as needed)*
