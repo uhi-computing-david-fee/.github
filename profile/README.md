@@ -15,7 +15,7 @@ This organisation hosts course repositories for UHI Computing students
 - (add repos as needed)
 
 ## BSc Computing
-- *(add repos as needed)*
+- **Password Rater** - Software Construction (UG409765) [View Repo](https://github.com/uhi-computing-david-fee/bsc-sc-password-strength)
 
 ## BSc (Hons) Computing
 - *(add repos as needed)*
