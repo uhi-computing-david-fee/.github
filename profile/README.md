@@ -9,6 +9,7 @@ This organisation hosts course repositories for UHI Computing students
 - 🎬 **FavFlix** – E-Commerce: Publishing Websites (DV6G 34)  [View Repo](https://github.com/uhi-computing-david-fee/hnc-ec-favflix)
 - 🤔 **Guess the Number** - Developing Software: Introduction (H173 34) [View Repo](https://github.com/uhi-computing-david-fee/hnc-dsi-guess-number)
 - ✂️ **Rock Paper Scissors** - Developing Software: Introduction (H173 34) [View Repo](https://github.com/uhi-computing-david-fee/hnc-dsi-rps)
+- 🎓 **Revision App** - Developing Software: Introduction (H173 34) [View Repo](https://github.com/uhi-computing-david-fee/hnc-dsi-revision)
 
 ## HND Computing
 - (add repos as needed)
