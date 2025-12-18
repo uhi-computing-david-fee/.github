@@ -10,6 +10,7 @@ This organisation hosts course repositories for UHI Computing students
 - 🤔 **Guess the Number** - Developing Software: Introduction (H173 34) [View Repo](https://github.com/uhi-computing-david-fee/hnc-dsi-guess-number)
 - ✂️ **Rock Paper Scissors** - Developing Software: Introduction (H173 34) [View Repo](https://github.com/uhi-computing-david-fee/hnc-dsi-rps)
 - 🎓 **Revision App** - Developing Software: Introduction (H173 34) [View Repo](https://github.com/uhi-computing-david-fee/hnc-dsi-revision)
+- 🏓 **Ping Ping** - Developing Software: Introduction (H173 34) [View Repo](https://github.com/uhi-computing-david-fee/hnc-dsi-ping-ping)
 
 ## HND Computing
 - (add repos as needed)
