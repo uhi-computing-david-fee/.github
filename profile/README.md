@@ -28,3 +28,4 @@ This organisation hosts course repositories for UHI Computing students
 - 🐍 **Sorting Experiment Python** - Science of Computing (UI110010) [View Repo](https://github.com/uhi-computing-david-fee/bsch-soc-sortingExperimentPython)
 - 🧬 **Compression Experiment C#** - Science of Computing (UI110010) [View Repo](https://github.com/uhi-computing-david-fee/bsch-soc-compressionExperiment)
 - 🐍 **Compression Experiment Python** - Science of Computing (UI110010) [View Repo](https://github.com/uhi-computing-david-fee/bsch-soc-compressionExperimentPython)
+- 🔑 **Diffie-Hellman Experiment** - Science of Computing (UI110010) [View Repo](https://github.com/uhi-computing-david-fee/bsch-soc-DHExperiment)
