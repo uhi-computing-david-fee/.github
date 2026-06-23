@@ -22,6 +22,7 @@ This organisation hosts course repositories for UHI Computing students
 - 🔑 **Password Rater** - Software Construction (UG409765) [View Repo](https://github.com/uhi-computing-david-fee/bsc-sc-password-strength)
 - 📈 **PriorityQueue Class Library (Assessment 1)** - Software Construction (UG409765) [View Repo](https://github.com/uhi-computing-david-fee/bsc-sc-priority-queue)
 - 🤖 **Path Finder (Assessment 2)** - Software Construction (UG409765) [View Repo](https://github.com/uhi-computing-david-fee/bsc-sc-path-finder)
+- 🎮 **DealShark v1 Teaching Demo** - Designing and Developing Web Applications (UG409759) [View Repo](https://github.com/uhi-computing-david-fee/bsc-ddwa-dealShark-v1)
 
 ## BSc (Hons) Computing
 - 🗂️ **Sorting Experiment C#** - Science of Computing (UI110010) [View Repo](https://github.com/uhi-computing-david-fee/bsch-soc-sortingExperiment)
