@@ -26,6 +26,7 @@ This organisation hosts course repositories for UHI Computing students
 - 👾 **DealShark v2 Teaching Demo** - Designing and Developing Web Applications (UG409759) [View Repo](https://github.com/uhi-computing-david-fee/bsc-ddwa-dealshark-v2)
 - 🧭 **FurtherNorth Teaching Demo** - Designing and Developing Web Applications (UG409759) [View Repo](https://github.com/uhi-computing-david-fee/bsc-ddwa-furtherNorth)
 - 🍿 **Bothy A3 Starting Repo** - Designing and Developing Web Applications (UG409759) [View Repo](https://github.com/uhi-computing-david-fee/bsc-ddwa-bothy)
+- 🍔 **Benny's Burger - Lecture 5** - Designing and Developing Web Applications (UG409759) [View Repo](https://github.com/uhi-computing-david-fee/bsc-ddwa-lec5-burgers)
 
 ## BSc (Hons) Computing
 - 🗂️ **Sorting Experiment C#** - Science of Computing (UI110010) [View Repo](https://github.com/uhi-computing-david-fee/bsch-soc-sortingExperiment)
