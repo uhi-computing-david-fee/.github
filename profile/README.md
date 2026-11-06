@@ -40,4 +40,5 @@ This organisation hosts course repositories for UHI Computing students
 - 💼 **Travelling Salesman Problem (Extension) C#** - Science of Computing (UI110010) [View Repo](https://github.com/uhi-computing-david-fee/bsch-soc-tsp)
 - 🐍 **Travelling Salesman Problem (Extension) Python** - Science of Computing (UI110010) [View Repo](https://github.com/uhi-computing-david-fee/bsch-soc-tsp-python)
 - 🔐 **Textbook RSA Experiment Runner (Extension)** - Science of Computing (UI110010) [View Repo](https://github.com/uhi-computing-david-fee/bsch-soc-rsa-runner)
-- 🤖 **Path Finding Experiment Runner (Extension)** - Science of Computing (UI110010) [View Repo](https://github.com/uhi-computing-david-fee/bsch-soc-path-finder)
+- 🤖 **Path Finding Experiment Runner (Extension) C#** - Science of Computing (UI110010) [View Repo](https://github.com/uhi-computing-david-fee/bsch-soc-path-finder)
+- 🐍 **Path Finding Experiment Runner (Extension) Python** - Science of Computing (UI110010) [View Repo](https://github.com/uhi-computing-david-fee/bsch-soc-path-finder-python)
